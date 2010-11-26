@@ -1,5 +1,4 @@
-Hudson Mirah wrapper
---------------------
+h2. Hudson Mirah wrapper
 
 Java classes and wrappers to allow to write Hudson plugins with Mirah.
 
@@ -9,10 +8,8 @@ around its plugins and they are a key for the discovery system.
 This project aims to contain java wrappers with those required generics so
 Mirah classes can extend from them and avoid generics.
 
-Current available wrappers
---------------------------
+h2. Current available wrappers
 
-Descriptors
-===========
+h4. Descriptors
 
   * BuilderStepDecriptor: wrapper for BuildStepDescriptor<Builder>
