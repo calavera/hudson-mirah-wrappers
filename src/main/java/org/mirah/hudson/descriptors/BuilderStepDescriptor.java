@@ -1,4 +1,4 @@
-package org.mirah;
+package org.mirah.hudson.descriptors;
 
 public abstract class BuilderStepDescriptor extends hudson.tasks.BuildStepDescriptor<hudson.tasks.Builder> {
     public BuilderStepDescriptor() {
